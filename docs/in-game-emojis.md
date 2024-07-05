@@ -27,5 +27,5 @@ Below are a list of available emojis you can use:
 * 😂 – :​joy:
 
 ::: tip DID YOU KNOW?
-Some emojis support common abbreviations, such as `:)`, `<3`, `:p`, `>:(` or `:(`
+Some emojis support common abbreviations, such as `:)`, `<3`, `:p`, `>:(` or `:(` and `:?`
 :::
